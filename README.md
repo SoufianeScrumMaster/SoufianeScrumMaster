@@ -69,20 +69,10 @@ I focus on clean code, performance, and real-world solutions.
 
 ## 🚀 Featured Projects
 
-- 🛒 **E-commerce Web App (MERN + Docker)** – Full online store with admin dashboard
-- 📋 **Task Management App** – CRUD + authentication + roles system
-- 🏥 **Clinic Management System** – Patients, appointments, and medical records
-- 🌐 **Portfolio Website** – Personal developer portfolio
-
----
-
-## 🎥 Introduction
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="500"/>
-  </a>
-</p>
+- 🛒 **E-commerce Web App (MERN + Docker)**
+- 📋 **Task Management App**
+- 🏥 **Clinic Management System**
+- 🌐 **Portfolio Website**
 
 ---
 
